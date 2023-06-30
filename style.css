@@ -9,10 +9,10 @@ body{
 }
 .card{
     width: 100%;
-    max-width: 540px;
+    max-width: 450px;
     background: linear-gradient(135deg , #00feba , #5b548a);
     color: #fff;
-    margin: 100px auto 20px;
+    margin: 150px auto ;
     border-radius: 20px;
     padding: 40px 35px 70px;
     text-align: center;
